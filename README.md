@@ -1,5 +1,5 @@
 #  About Me:
-### I'm currently working on:<br>- Enhancing my skills in distributed systems and backend engineering<br>- Building personal projects using C++, Python, and React<br><br>I'm looking to collaborate on:<br>- Scalable system design, AI-powered platforms, and full-stack web apps<br><br> I'm looking for help with:<br>- Contributing to open-source distributed systems or dev tools<br><br> I'm currently learning:<br>- Kubernetes, Rust, and LLM fine-tuning for retrieval-augmented systems<br><br> Ask me about:<br>- gRPC, PyTorch, Django + React, C++, Azure tooling, Systems
+### I'm currently working on:<br>- Enhancing my skills in distributed systems and backend engineering<br>- Building personal projects using C++, Python, and React<br><br>I'm looking to collaborate on:<br>- Scalable system design, AI-powered platforms, and full-stack web apps<br><br> I'm looking for help with:<br>- Contributing to open-source distributed systems or dev tools<br><br> I'm currently learning:<br>- Kubernetes, Go, and LLM fine-tuning for retrieval-augmented systems<br><br> Ask me about:<br>- gRPC, PyTorch, Django + React, C++, Azure tooling, Systems
 
 
 ## 🌐 Socials:
